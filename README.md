@@ -63,4 +63,5 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Vivek-Nemade&theme=redical)
 
-[![](https://visitcount.itsvg.in/api?id=VivekN11&icon=0&color=0)](https://visitcount.itsvg.in)<a href="https://github.com/VivekN11?tab=followers"><img src="https://img.shields.io/github/followers/Vivek-Nemade?label=Followers&style=social" alt="GitHub Badge"></a>
+
+[![](https://visitcount.itsvg.in/api?id=VivekN11&icon=0&color=0)](https://visitcount.itsvg.in)<a href="https://github.com/VivekN11?tab=followers"><img src="https://img.shields.io/github/followers/Vivek-Nemade?label=Followers&style=social" alt="GitHub Badge"></a> ![](https://komarev.com/ghpvc/?username=Vivek-Nemade&style=flat)
