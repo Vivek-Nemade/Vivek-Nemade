@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://vivek-nemade.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vivek-nemade.netlify.app/){:target="_blank" rel="noopener"}**
 
 - 📫 How to reach me **viveknemade11@gmail.com**
 
