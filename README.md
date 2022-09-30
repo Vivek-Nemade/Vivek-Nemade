@@ -57,9 +57,11 @@
 ---
 </div>
 
+<div align="center">
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Vivek-Nemade&theme=redical)
 
